@@ -1,0 +1,7 @@
+WELFake_Dataset.csv
+data/
+news_env/
+venv/
+env/
+__pycache__/
+.DS_Store
