@@ -2,6 +2,8 @@
 
 A Deep Learning application that classifies news articles as **Real** or **Fake** using a fine-tuned **DistilBERT** Transformer model.
 
+https://fake-news-detection-86xmdts23fvzwmo2abq4ac.streamlit.app/
+
 ## Project Overview
 This project addresses the challenge of online misinformation by analyzing the linguistic patterns and contextual relationships in news headlines and body text. Unlike keyword-based filters, this model understands the nuances of language.
 
